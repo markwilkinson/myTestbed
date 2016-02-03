@@ -1,0 +1,10 @@
+Hi
+
+This is a Brunofile, which means that:
+	-It was written by Bruno
+	-It is just a plain text file
+I hope that you like it
+
+All my best
+
+Bruno
